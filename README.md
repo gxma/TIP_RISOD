@@ -1,3 +1,3 @@
 ### Pipeline
 
-<img src="./pipeline.png" width=1200 height=596 />
+<img src="./pipeline.png" width=1200 height=300 />
