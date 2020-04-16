@@ -67,11 +67,7 @@ Results : [Drive Link(1cxf)](https://pan.baidu.com/s/1IniuvhnuGkvMTqIcbQAvlg)
 1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1GsS95QmhC0_WIuf-dhNHkMXbiMN4HwZd).   
    Put this model in `./models/` and `./reimg/`.
 
-2. Run:
-
-   ```shell
-   main.m'
-   ```
+2. Run:   main
    
 ### Other Saliency Method
 
@@ -105,7 +101,7 @@ Results : [Drive Link(1cxf)](https://pan.baidu.com/s/1IniuvhnuGkvMTqIcbQAvlg)
 
 ### Evaluation Method
 
-Saliency Evaluation Method : The code for CRF can be found in [Ming-Ming Cheng](http://mmcheng.net) and [Deng-Ping Fan](http://dpfan.net/).
+Saliency Evaluation Method : The code  can be found in [Ming-Ming Cheng](http://mmcheng.net) and [Deng-Ping Fan](http://dpfan.net/).
 
 ### Contacts
 ma(###->@)jbeta(***->.)net
