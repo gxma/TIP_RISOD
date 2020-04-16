@@ -64,7 +64,7 @@ Results : [Drive Link(1cxf)](https://pan.baidu.com/s/1IniuvhnuGkvMTqIcbQAvlg)
 
 ### Usage
 
-1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1GsS95QmhC0_WIuf-dhNHkMXbiMN4HwZd).   
+1. Please download our pretrained model at [Drive Link](https://drive.google.com/open?id=1GsS95QmhC0_WIuf-dhNHkMXbiMN4HwZd).   
    Put this model in `./models/` and `./reimg/`.
 
 2. Run:   main
